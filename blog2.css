@@ -1,0 +1,43 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+  background-color: lightpink;
+  font-size: 20px;
+}
+ .blog-image {
+   display: block;
+   margin: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   block-size: 60px 60px;
+   height: 200px;
+   width: 20%;
+   border-radius: 10%;
+ }
+ .blog-heading {
+   background-color: lightpink;
+   color: brown;
+   text-align: center;
+   padding: 20px 0;
+   font-family: cursive;
+   font-size: 50px;
+ }
+ .p {
+   background-color: whitesmoke;
+   color: brown;
+   text-align: center;
+   padding: 20px 0;
+   font-family: cursive;
+   font-size: 50px; 
+ }
+ .a {
+   color: wheat;
+   text-align: center;
+   font-size: 50px;
+ }
+ .li {
+   color: burlywood;
+   font-size: 50px;
+   text-align: center;
+ }
