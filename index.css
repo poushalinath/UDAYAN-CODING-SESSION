@@ -5,7 +5,7 @@ body {
   background-color: lightpink;
   font-size: 20px;
 }
- .blog-image {
+ .index-image {
    display: block;
    margin: 10px;
    margin-left: auto;
@@ -15,7 +15,7 @@ body {
    width: 20%;
    border-radius: 10%;
  }
- .blog-heading {
+ .index-heading {
    background-color: lightpink;
    color: brown;
    text-align: center;
